@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #31f809;
+    --laranja-claro: #41f809;
 }
 
 body {
@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #ecca07;
+    background-color: #d5ec07;
 }
 
 
@@ -21,13 +21,13 @@ section {
 
 
 .nav-link {
-    color: #04eb3e;
+    color: #eb0404;
     font-weight: 600;
 }
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/Design-sem-nome.webp');
+    background-image: url('img/TA-NA-MESA-13.webp');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -76,8 +76,6 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -104,13 +102,9 @@ h2 {
 
 }
 
-.fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
-    background-size: 180px 180px;
-}
 
 #contato {
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/verde.jpg');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
@@ -129,7 +123,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #05eaf1;
+    background-color: #cef105;
     border: none;
     font-weight: bold;
 }
